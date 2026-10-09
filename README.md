@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavissBlancoDev
-- 👀 I’m interested in learning more Java and code.
-- 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript & PHP.
+- 👀 I’m interested in learning more code.
+- 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript & TypeScript and PHP.
 
 <!---
 DavissBlancoDev/DavissBlancoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
